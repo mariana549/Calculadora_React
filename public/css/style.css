@@ -58,13 +58,3 @@
  .botao:hover {
    background-color: var(--cor-dark);
  }
- 
-
- /* - adicionei variaveis
-   - coloquei os resets em uma pasta so deles 
-   - coloquei os style css em uma pasta so dela
-   - coloquei o js em uma pasta
-   - retirei o modo de centralização e no lugar coloquei o flex-box
-   - mudei as cores: no fundo coloquei um gradient e mudei a cor da calculadora
-   - adicionei sombra a calculadora
-    */
